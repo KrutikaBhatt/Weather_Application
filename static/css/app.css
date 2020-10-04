@@ -1,0 +1,14 @@
+.navbar-brand{
+	font-family: 'Acme', sans-serif;
+    font-size:30em;
+}
+.center-format{
+	margin: 10px auto 20px;
+    display: block;
+}
+.has-addons{
+	margin :10px auto 20px;
+	display :block;
+	padding-top: 30px;
+	
+}
