@@ -12,7 +12,7 @@ def index(request):
 	err=""
 
 
-	url='http://api.openweathermap.org/data/2.5/weather?q={}&units=metric&appid=54b5ef355cd9e48583d150d757206bea'
+	url='http://api.openweathermap.org/data/2.5/weather?q={}&units=metric&appid=Your_API_Key'
 
 	
 
